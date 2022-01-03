@@ -5,6 +5,9 @@
 node_modules/
 dist/
 
+#env files
+.env
+
 # Compiled Java class files
 *.class
 
@@ -45,7 +48,4 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
-
-.env
 
